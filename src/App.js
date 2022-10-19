@@ -31,8 +31,8 @@ const App = () => {
   }, [isHover]);
 
   const boxStyle = {
-    height: "500px",
-    width: "500px",
+    height: "255px",
+    width: "255px",
     display: "flex",
     justifyContent: "center",
     cursor: "pointer",
